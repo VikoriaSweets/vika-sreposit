@@ -1,4 +1,5 @@
 a = 1
 b = 5
-sum = a + b
+с = -5
+sum = a + b + с
 print(sum)
