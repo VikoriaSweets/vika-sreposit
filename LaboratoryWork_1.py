@@ -5,7 +5,7 @@ def say_hello(name):
 
 say_hello("Vika")
 
-# Вычислению факториала
+# Вычисление факториала
 def Factorial():
     num = int(input("Введите число для нахождения факториала: "))
     i = 1
